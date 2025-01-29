@@ -17,8 +17,8 @@
 | Carryon | Позволяет переносить блоки и существ | https://www.curseforge.com/minecraft/mc-mods/carry-on |
 | Chipped | Добавляет варианты дизайна блоков | https://www.curseforge.com/minecraft/mc-mods/chipped |
 | Chunk Loaders | Держит выбранные чанки загруженными | https://www.curseforge.com/minecraft/mc-mods/chunk-loaders |
-| Chunk Pregenerator [X] | Предварительно генерирует чанки мира | https://www.curseforge.com/minecraft/mc-mods/chunk-pregenerator |
-| Chunky [X] | Инструмент предварительной генерации мира | https://www.curseforge.com/minecraft/mc-mods/chunky-forge | 
+| Chunk Pregenerator [♫] | Предварительно генерирует чанки мира | [https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator |
+| Chunky [♫] | Инструмент предварительной генерации мира | [https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge | 
 | Citadel | Необходимая библиотека для Alexs Mobs | https://www.curseforge.com/minecraft/mc-mods/citadel |
 | Cloth Config | API для настройки модов | https://www.curseforge.com/minecraft/mc-mods/cloth-config |
 | Crabbers Delight | Добавляет морепродукты и готовку | https://www.curseforge.com/minecraft/mc-mods/crabbers-delight |
@@ -29,7 +29,7 @@
 | Create New Age | Технологическое дополнение для Create | https://www.curseforge.com/minecraft/mc-mods/create-new-age |
 | Create Wizardry | Магическое дополнение для Create | https://www.curseforge.com/minecraft/mc-mods/create-wizardry |
 | Creative Core | Необходимая библиотека для модов | https://www.curseforge.com/minecraft/mc-mods/creativecore |
-| CullLessLeaves [X] | Улучшает отрисовку листвы | https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves |
+| CullLessLeaves [♫] | Улучшает отрисовку листвы | https://www.curseforge.com/minecraft/mc-mods/culllessleaves-reforged |
 | Cupboard | Мод для хранения мебели | https://www.curseforge.com/minecraft/mc-mods/cupboard |
 | Curios | Добавляет дополнительные слоты экипировки | https://www.curseforge.com/minecraft/mc-mods/curios |
 | Doapi | Библиотека для анимации дверей | https://www.curseforge.com/minecraft/mc-mods/do-api |
