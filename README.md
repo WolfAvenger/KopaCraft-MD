@@ -123,9 +123,9 @@
 | [сорт.] | Just Enough Professions  | A JEI addon that adds profession workstations | https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep |
 | [сорт.] | Amendments | Cauldron Potion Mixing, Lanterns Animation, Carpeted Stairs, Candle Skulls, Double Cakes, Better Lilypads and much more| https://www.curseforge.com/minecraft/mc-mods/amendments |
 | [сорт.] | Supplementaries | Vanilla+ additions: Jars, signposts, faucets, weather vanes spring launchers, sconces, planters, lights, decoration and automation | https://www.curseforge.com/minecraft/mc-mods/supplementaries |
-| [сорт.] |  | | |
-| [сорт.] |  | | |
-| [сорт.] |  | | |
+| [сорт.] | Balm  | Abstraction Layer (but not really)™ for Blay's multiplatform mods| https://www.curseforge.com/minecraft/mc-mods/balm |
+| [сорт.] | Puzzles Lib  | Why's it called Puzzles you ask? That's the puzzle! | https://www.curseforge.com/minecraft/mc-mods/puzzles-lib |
+| [сорт.] | Fusion | Fusion allows resource packs to use additional texture and model types such as connected textures! | https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures |
 | [сорт.] |  | | |
 | [сорт.] |  | | |
 | [сорт.] |  | | |
@@ -138,4 +138,4 @@
 | [сорт.] |  | | |
 | [сорт.] |  | | |
 | [mb] | MVS - Moog's Voyager Structures |160+ structures made with vanilla blocks and entities bringing life to your world! Discover loot, enemies, & villagers along the way!| https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures |
-| [никогда] | Jewelry (RPG Series) | Мод пак на боевку и магию| https://www.curseforge.com/minecraft/mc-mods/jewelry |
+| [никогда] | Jewelry (RPG Series) [fabric] | Мод пак на боевку и магию| https://www.curseforge.com/minecraft/mc-mods/jewelry |
