@@ -104,3 +104,6 @@
 | 102 | Watut [♫] | See when a player is typing, in world and in GUI. | https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to |
 | 103 | Xaeros Minimap | Добавляет мини-карту | https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap |
 | 104 | Xaeros World Map | Добавляет карту мира | https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map |
+| 105 | Create: Connected [сорт.]| A Create mod add-on adding quality-of-life blocks that you wish existed in Create| https://www.curseforge.com/minecraft/mc-mods/create-connected|
+| 106 | Create: Crystal Clear [сорт.]| A mod that adds glass casings to create| https://www.curseforge.com/minecraft/mc-mods/create-crystal-clear|
+| 107 | Create: Dynamic Village [сорт.]| An expansion to Create that adds a fully-featured host of Create-mod village professions| https://www.curseforge.com/minecraft/mc-mods/dynamic-village|
