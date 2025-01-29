@@ -84,7 +84,7 @@
 | Moonlight [♫] | Библиотека для других модов | https://www.curseforge.com/minecraft/mc-mods/selene |
 | Nethers Delight | Кулинария Нижнего мира | https://www.curseforge.com/minecraft/mc-mods/nethers-delight |
 | Notenoughanimations | Добавляет анимации игрока | https://www.curseforge.com/minecraft/mc-mods/not-enough-animations |
-| Player Animation | Библиотека анимации персонажей | https://www.curseforge.com/minecraft/mc-mods/player-animation-lib |
+| Player Animation [♫] | Библиотека анимации персонажей |nhttps://www.curseforge.com/minecraft/mc-mods/playeranimator |
 | Radium | Оптимизация производительности | https://www.curseforge.com/minecraft/mc-mods/radium-reforged |
 | Resourcefullib | Библиотека загрузки ресурсов | https://www.curseforge.com/minecraft/mc-mods/resourceful-lib |
 | Sliceanddice | Автоматическое фермерство для Create | https://www.curseforge.com/minecraft/mc-mods/slice-and-dice |
@@ -92,8 +92,7 @@
 | Sophisticated Backpacks | Продвинутая система рюкзаков | https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks |
 | Sophisticated Core | Библиотека для Sophisticated модов | https://www.curseforge.com/minecraft/mc-mods/sophisticated-core |
 | Starlight | Улучшение системы освещения | https://www.curseforge.com/minecraft/mc-mods/starlight-forge |
-| Steam Rails | Паровая железнодорожная система |
-| Steam Rails | Паровая железнодорожная система | https://www.curseforge.com/minecraft/mc-mods/steam-rails |
+| Steam Rails [♫] | Паровая железнодорожная система | https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails |
 | Storage Drawers | Система массового хранения | https://www.curseforge.com/minecraft/mc-mods/storage-drawers |
 | Supermartijn642configlib | Библиотека конфигурации | https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib |
 | Supermartijn642corelib | Основная библиотека | https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib |
