@@ -63,7 +63,6 @@
 | Letsdo Nethervinery | Виноделие в стиле Нижнего мира | https://www.curseforge.com/minecraft/mc-mods/lets-do-nethervinery |
 | Letsdo Vinery | Добавляет механику виноделия | https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery |
 | Library Ferret | Вспомогательная библиотека | https://www.curseforge.com/minecraft/mc-mods/library-ferret-forge |
-| Max Armory [X] | Добавляет оружие и броню | https://www.curseforge.com/minecraft/mc-mods/max-armory |
 | Mcw Bridges | Добавляет декоративные мосты | https://www.curseforge.com/minecraft/mc-mods/macaws-bridges |
 | Mcw Doors | Добавляет декоративные двери | https://www.curseforge.com/minecraft/mc-mods/macaws-doors |
 | Mcw Fences | Добавляет декоративные заборы | https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls |
