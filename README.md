@@ -81,7 +81,7 @@
 | MOAdecor Lights | Декоративное освещение | https://www.curseforge.com/minecraft/mc-mods/moa-decor-lights |
 | MOAdecor Science | Научный декор | https://www.curseforge.com/minecraft/mc-mods/moa-decor-science |
 | MOAdecor Toys | Декоративные игрушки | https://www.curseforge.com/minecraft/mc-mods/moa-decor-toys |
-| Moonlight | Библиотека для других модов | https://www.curseforge.com/minecraft/mc-mods/moonlight-lib |
+| Moonlight [♫] | Библиотека для других модов | https://www.curseforge.com/minecraft/mc-mods/selene |
 | Nethers Delight | Кулинария Нижнего мира | https://www.curseforge.com/minecraft/mc-mods/nethers-delight |
 | Notenoughanimations | Добавляет анимации игрока | https://www.curseforge.com/minecraft/mc-mods/not-enough-animations |
 | Player Animation | Библиотека анимации персонажей | https://www.curseforge.com/minecraft/mc-mods/player-animation-lib |
