@@ -101,6 +101,6 @@
 | Tax Tree Giant | Генерация больших деревьев | https://www.curseforge.com/minecraft/mc-mods/tax-free-levels |
 | Tfmg | Технологические дополнения | https://www.curseforge.com/minecraft/mc-mods/tfmg |
 | Vegandelight | Веганские варианты еды | https://www.curseforge.com/minecraft/mc-mods/vegan-delight |
-| Watut | Утилиты генерации мира | https://www.curseforge.com/minecraft/mc-mods/wat-ut |
+| Watut [♫] | See when a player is typing, in world and in GUI. |https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to |
 | Xaeros Minimap | Добавляет мини-карту | https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap |
 | Xaeros World Map | Добавляет карту мира | https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map |
