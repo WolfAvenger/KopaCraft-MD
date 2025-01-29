@@ -1,4 +1,4 @@
-| Название мода | Описание | Ссылка на CurseForge | ! |
+| Название мода | Описание | Ссылка на CurseForge |
 |--------------|-----------|---------------------|
 | AdvancementPlaques | Показывает достижения как красивые таблички | https://www.curseforge.com/minecraft/mc-mods/advancement-plaques |
 | Alexs Delight | Добавляет новую еду и рецепты | https://www.curseforge.com/minecraft/mc-mods/alexs-delight |
@@ -17,8 +17,8 @@
 | Carryon | Позволяет переносить блоки и существ | https://www.curseforge.com/minecraft/mc-mods/carry-on |
 | Chipped | Добавляет варианты дизайна блоков | https://www.curseforge.com/minecraft/mc-mods/chipped |
 | Chunk Loaders | Держит выбранные чанки загруженными | https://www.curseforge.com/minecraft/mc-mods/chunk-loaders |
-| Chunk Pregenerator | Предварительно генерирует чанки мира | https://www.curseforge.com/minecraft/mc-mods/chunk-pregenerator | X |
-| Chunky | Инструмент предварительной генерации мира | https://www.curseforge.com/minecraft/mc-mods/chunky-forge | X |
+| Chunk Pregenerator [X] | Предварительно генерирует чанки мира | https://www.curseforge.com/minecraft/mc-mods/chunk-pregenerator |
+| Chunky [X] | Инструмент предварительной генерации мира | https://www.curseforge.com/minecraft/mc-mods/chunky-forge | 
 | Citadel | Необходимая библиотека для Alexs Mobs | https://www.curseforge.com/minecraft/mc-mods/citadel |
 | Cloth Config | API для настройки модов | https://www.curseforge.com/minecraft/mc-mods/cloth-config |
 | Crabbers Delight | Добавляет морепродукты и готовку | https://www.curseforge.com/minecraft/mc-mods/crabbers-delight |
