@@ -28,7 +28,7 @@
 | Create Enchantment Industry | Механика зачарования для Create | https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry |
 | Create New Age | Технологическое дополнение для Create | https://www.curseforge.com/minecraft/mc-mods/create-new-age |
 | Create Wizardry | Магическое дополнение для Create | https://www.curseforge.com/minecraft/mc-mods/create-wizardry |
-| Creative Core | Необходимая библиотека для модов | https://www.curseforge.com/minecraft/mc-mods/creative-core |
+| Creative Core | Необходимая библиотека для модов | https://www.curseforge.com/minecraft/mc-mods/creativecore |
 | CullLessLeaves | Улучшает отрисовку листвы | https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves |
 | Cupboard | Мод для хранения мебели | https://www.curseforge.com/minecraft/mc-mods/cupboard |
 | Curios | Добавляет дополнительные слоты экипировки | https://www.curseforge.com/minecraft/mc-mods/curios |
