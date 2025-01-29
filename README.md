@@ -38,7 +38,7 @@
 | Entity Culling | Улучшает производительность отрисовки существ | https://www.curseforge.com/minecraft/mc-mods/entityculling |
 | Falling Tree | Удобная вырубка деревьев | https://www.curseforge.com/minecraft/mc-mods/falling-tree |
 | Farmers Delight | Расширение фермерства и готовки | https://www.curseforge.com/minecraft/mc-mods/farmers-delight |
-| Farmers Utils | Дополнительные фермерские инструменты | https://www.curseforge.com/minecraft/mc-mods/farming-utils |
+| Farmers Utils [X] | Дополнительные фермерские инструменты | https://www.curseforge.com/minecraft/mc-mods/farming-utils |
 | Fastload | Ускоряет загрузку мира | https://www.curseforge.com/minecraft/mc-mods/fastload |
 | Female Gender | Добавляет женские персонажи | https://www.curseforge.com/minecraft/mc-mods/female-gender |
 | Ferrite Core | Улучшение производительности | https://www.curseforge.com/minecraft/mc-mods/ferritecore |
