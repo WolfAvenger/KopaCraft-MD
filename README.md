@@ -33,12 +33,12 @@
 | Cupboard | Мод для хранения мебели | https://www.curseforge.com/minecraft/mc-mods/cupboard |
 | Curios | Добавляет дополнительные слоты экипировки | https://www.curseforge.com/minecraft/mc-mods/curios |
 | Doapi | Библиотека для анимации дверей | https://www.curseforge.com/minecraft/mc-mods/do-api |
-| Dummmmmmmy [X] | Добавляет манекен для тренировки | https://www.curseforge.com/minecraft/mc-mods/dummmmmmmy |
+| Dummmmmmmy [♫] | Добавляет манекен для тренировки |https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm |
 | Enders Delight | Кулинария в стиле Края | https://www.curseforge.com/minecraft/mc-mods/ends-delight |
 | Entity Culling | Улучшает производительность отрисовки существ | https://www.curseforge.com/minecraft/mc-mods/entityculling |
 | Falling Tree | Удобная вырубка деревьев | https://www.curseforge.com/minecraft/mc-mods/falling-tree |
 | Farmers Delight | Расширение фермерства и готовки | https://www.curseforge.com/minecraft/mc-mods/farmers-delight |
-| Farmers Utils [X] | Дополнительные фермерские инструменты | https://www.curseforge.com/minecraft/mc-mods/farming-utils |
+| Farmers Utils [♫] | Дополнительные фермерские инструменты | https://www.curseforge.com/minecraft/mc-mods/farmers-utils |
 | Fastload | Ускоряет загрузку мира | https://www.curseforge.com/minecraft/mc-mods/fastload |
 | Female Gender | Добавляет женские персонажи | https://minecraft-inside.ru/download/274255/ |
 | Ferrite Core | Улучшение производительности | https://www.curseforge.com/minecraft/mc-mods/ferritecore |
