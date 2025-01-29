@@ -60,7 +60,7 @@
 | Kotlin For Forge | Необходимая библиотека Kotlin | https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge |
 | Letmedespawn | Управление спауном мобов | https://www.curseforge.com/minecraft/mc-mods/let-me-despawn |
 | Letsdo Bakery | Добавляет механику выпечки | https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery |
-| Letsdo Nethervinery | Виноделие в стиле Нижнего мира | https://www.curseforge.com/minecraft/mc-mods/lets-do-nether-vinery |
+| Letsdo Nethervinery | Виноделие в стиле Нижнего мира | https://www.curseforge.com/minecraft/mc-mods/lets-do-nethervinery |
 | Letsdo Vinery | Добавляет механику виноделия | https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery |
 | Library Ferret | Вспомогательная библиотека | https://www.curseforge.com/minecraft/mc-mods/library-ferret-forge |
 | Max Armory | Добавляет оружие и броню | https://www.curseforge.com/minecraft/mc-mods/max-armory |
