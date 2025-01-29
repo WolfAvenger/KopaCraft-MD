@@ -72,7 +72,7 @@
 | Mcw Paths | Добавляет декоративные дорожки | https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings |
 | Mcw Trapdoors | Добавляет декоративные люки | https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors |
 | Mcw Windows | Добавляет декоративные окна | https://www.curseforge.com/minecraft/mc-mods/macaws-windows |
-| Miners Delight | Еда и готовка для шахтёров | https://www.curseforge.com/minecraft/mc-mods/miners-delight |
+| Miners Delight | Еда и готовка для шахтёров | https://www.curseforge.com/minecraft/mc-mods/miners-delight-plus |
 | MOAdecor Art | Декоративные предметы искусства | https://www.curseforge.com/minecraft/mc-mods/moa-decor-art |
 | MOAdecor Bath | Мебель для ванной | https://www.curseforge.com/minecraft/mc-mods/moa-decor-bath |
 | MOAdecor Cookery | Кухонные предметы и декор | https://www.curseforge.com/minecraft/mc-mods/moa-decor-cookery |
