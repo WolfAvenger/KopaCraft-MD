@@ -33,7 +33,7 @@
 | Cupboard | Мод для хранения мебели | https://www.curseforge.com/minecraft/mc-mods/cupboard |
 | Curios | Добавляет дополнительные слоты экипировки | https://www.curseforge.com/minecraft/mc-mods/curios |
 | Doapi | Библиотека для анимации дверей | https://www.curseforge.com/minecraft/mc-mods/do-api |
-| Dummmmmmmy | Добавляет манекен для тренировки | https://www.curseforge.com/minecraft/mc-mods/dummmmmmmy |
+| Dummmmmmmy [X] | Добавляет манекен для тренировки | https://www.curseforge.com/minecraft/mc-mods/dummmmmmmy |
 | Enders Delight | Кулинария в стиле Края | https://www.curseforge.com/minecraft/mc-mods/ends-delight |
 | Entity Culling | Улучшает производительность отрисовки существ | https://www.curseforge.com/minecraft/mc-mods/entityculling |
 | Falling Tree | Удобная вырубка деревьев | https://www.curseforge.com/minecraft/mc-mods/falling-tree |
