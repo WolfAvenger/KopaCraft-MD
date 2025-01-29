@@ -40,7 +40,7 @@
 | Farmers Delight | Расширение фермерства и готовки | https://www.curseforge.com/minecraft/mc-mods/farmers-delight |
 | Farmers Utils [X] | Дополнительные фермерские инструменты | https://www.curseforge.com/minecraft/mc-mods/farming-utils |
 | Fastload | Ускоряет загрузку мира | https://www.curseforge.com/minecraft/mc-mods/fastload |
-| Female Gender | Добавляет женские персонажи | https://www.curseforge.com/minecraft/mc-mods/female-gender |
+| Female Gender | Добавляет женские персонажи | https://minecraft-inside.ru/download/274255/ |
 | Ferrite Core | Улучшение производительности | https://www.curseforge.com/minecraft/mc-mods/ferritecore |
 | FpsReducer | Снижает FPS при бездействии | https://www.curseforge.com/minecraft/mc-mods/fps-reducer |
 | Framed Blocks | Настраиваемые декоративные блоки | https://www.curseforge.com/minecraft/mc-mods/framedblocks |
