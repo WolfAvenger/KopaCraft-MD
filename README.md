@@ -137,6 +137,5 @@
 | [сорт.] |  | | |
 | [сорт.] |  | | |
 | [сорт.] |  | | |
-| [mb] | MVS - Moog's Voyager Structures |160+ structures made with vanilla blocks and entities bringing life to your world! Discover loot, enemies, & villagers along the way!
-18.9M Downloads | Mods | https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures |
+| [mb] | MVS - Moog's Voyager Structures |160+ structures made with vanilla blocks and entities bringing life to your world! Discover loot, enemies, & villagers along the way!| https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures |
 | [никогда] | Jewelry (RPG Series) | Мод пак на боевку и магию| https://www.curseforge.com/minecraft/mc-mods/jewelry |
