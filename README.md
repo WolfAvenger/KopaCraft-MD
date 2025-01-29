@@ -17,16 +17,18 @@
 | Carryon | Позволяет переносить блоки и существ | https://www.curseforge.com/minecraft/mc-mods/carry-on |
 | Chipped | Добавляет варианты дизайна блоков | https://www.curseforge.com/minecraft/mc-mods/chipped |
 | Chunk Loaders | Держит выбранные чанки загруженными | https://www.curseforge.com/minecraft/mc-mods/chunk-loaders |
-| Chunk Pregenerator [♫] | Предварительно генерирует чанки мира | [https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator |
-| Chunky [♫] | Инструмент предварительной генерации мира | [https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge | 
+| Chunk Pregenerator [♫] | Предварительно генерирует чанки мира | https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator |
+| Chunky [♫] | Инструмент предварительной генерации мира | https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge | 
 | Citadel | Необходимая библиотека для Alexs Mobs | https://www.curseforge.com/minecraft/mc-mods/citadel |
 | Cloth Config | API для настройки модов | https://www.curseforge.com/minecraft/mc-mods/cloth-config |
 | Crabbers Delight | Добавляет морепродукты и готовку | https://www.curseforge.com/minecraft/mc-mods/crabbers-delight |
 | Create | Технический мод с механизмами | https://www.curseforge.com/minecraft/mc-mods/create |
 | Create Addition | Дополнение для мода Create | https://www.curseforge.com/minecraft/mc-mods/createaddition |
+| Create: Deepslate Processing | перерабатывать глубинный сланец | https://www.curseforge.com/minecraft/mc-mods/create-deepslate-processing |
 | Create Central Kitchen | Автоматизация еды для Create | https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen |
 | Create Enchantment Industry | Механика зачарования для Create | https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry |
 | Create New Age | Технологическое дополнение для Create | https://www.curseforge.com/minecraft/mc-mods/create-new-age |
+| Create: Ultimate Factory | Позволяет делать заводы алмазов и незерита| https://www.curseforge.com/minecraft/mc-mods/create-ultimate-factory |
 | Create Wizardry | Магическое дополнение для Create | https://www.curseforge.com/minecraft/mc-mods/create-wizardry |
 | Creative Core | Необходимая библиотека для модов | https://www.curseforge.com/minecraft/mc-mods/creativecore |
 | CullLessLeaves [♫] | Улучшает отрисовку листвы | https://www.curseforge.com/minecraft/mc-mods/culllessleaves-reforged |
