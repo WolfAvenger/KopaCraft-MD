@@ -104,6 +104,39 @@
 | 102 | Watut [♫] | See when a player is typing, in world and in GUI. | https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to |
 | 103 | Xaeros Minimap | Добавляет мини-карту | https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap |
 | 104 | Xaeros World Map | Добавляет карту мира | https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map |
-| 105 | Create: Connected [сорт.]| A Create mod add-on adding quality-of-life blocks that you wish existed in Create| https://www.curseforge.com/minecraft/mc-mods/create-connected|
-| 106 | Create: Crystal Clear [сорт.]| A mod that adds glass casings to create| https://www.curseforge.com/minecraft/mc-mods/create-crystal-clear|
-| 107 | Create: Dynamic Village [сорт.]| An expansion to Create that adds a fully-featured host of Create-mod village professions| https://www.curseforge.com/minecraft/mc-mods/dynamic-village|
+| [сорт.]| Create: Connected | A Create mod add-on adding quality-of-life blocks that you wish existed in Create| https://www.curseforge.com/minecraft/mc-mods/create-connected|
+| [сорт.] | Create: Crystal Clear | A mod that adds glass casings to create| https://www.curseforge.com/minecraft/mc-mods/create-crystal-clear|
+| [сорт.] | Create: Dynamic Village | An expansion to Create that adds a fully-featured host of Create-mod village professions| https://www.curseforge.com/minecraft/mc-mods/dynamic-village|
+| [сорт.] | Create: The Kitchen Must Grow | Alcohol & Ultraprocessed Food| https://www.curseforge.com/minecraft/mc-mods/create-the-kitchen-must-grow|
+| [сорт.] | Create: More Drill Heads | More drill heads for faster mining machines!| https://www.curseforge.com/minecraft/mc-mods/create-more-drill-heads|
+| [сорт.] | Create Stuff & Additions | Dominate your environment with Create technology| https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions|
+| [сорт.] | Rechiseled | Rechiseled allows you to chisel blocks into various decorative blocks with connected textures!| https://www.curseforge.com/minecraft/mc-mods/rechiseled|
+| [сорт.] | Simply Light | Simple light for a complicated world. | https://www.curseforge.com/minecraft/mc-mods/simply-light |
+| [сорт.] | Easy Magic  | Enchanting tables as they always should have been! Items stay after closing, and easy re-rolls | https://www.curseforge.com/minecraft/mc-mods/easy-magic |
+| [сорт.] | Just Enough Breeding (JEBr) | JEI/REI/EMI plugin that displays breeding information | https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding|
+| [сорт.] | Construction Wand | Construction Wands make building easier! (A new take on the Builder's Wand) | https://www.curseforge.com/minecraft/mc-mods/construction-wand |
+| [сорт.] | Item Highlighter | Highlights newly picked-up items.  Simple and convenient. | https://www.curseforge.com/minecraft/mc-mods/item-highlighter |
+| [сорт.] | Visual Workbench | Items stay inside of crafting tables and are also rendered on top. It's really fancy! | https://www.curseforge.com/minecraft/mc-mods/visual-workbench |
+| [сорт.] | Trash Cans | Trash Cans adds trash cans which can be used to void items, liquids, and energy! | https://www.curseforge.com/minecraft/mc-mods/trash-cans |
+| [сорт.] | Crafting Tweaks  | Allows you to rotate, balance or clear the crafting matrix by the press of a button | https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks |
+| [сорт.] | NetherPortalFix | Ensures correct destinations when travelling back and forth through Nether Portals in Multiplayer | https://www.curseforge.com/minecraft/mc-mods/netherportalfix |
+| [сорт.] | Just Enough Professions  | A JEI addon that adds profession workstations | https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep |
+| [сорт.] | Amendments | Cauldron Potion Mixing, Lanterns Animation, Carpeted Stairs, Candle Skulls, Double Cakes, Better Lilypads and much more| https://www.curseforge.com/minecraft/mc-mods/amendments |
+| [сорт.] | Supplementaries | Vanilla+ additions: Jars, signposts, faucets, weather vanes spring launchers, sconces, planters, lights, decoration and automation | https://www.curseforge.com/minecraft/mc-mods/supplementaries |
+| [сорт.] |  | | |
+| [сорт.] |  | | |
+| [сорт.] |  | | |
+| [сорт.] |  | | |
+| [сорт.] |  | | |
+| [сорт.] |  | | |
+| [сорт.] |  | | |
+| [сорт.] |  | | |
+| [сорт.] |  | | |
+| [сорт.] |  | | |
+| [сорт.] |  | | |
+| [сорт.] |  | | |
+| [сорт.] |  | | |
+| [сорт.] |  | | |
+| [mb] | MVS - Moog's Voyager Structures |160+ structures made with vanilla blocks and entities bringing life to your world! Discover loot, enemies, & villagers along the way!
+18.9M Downloads | Mods | https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures |
+| [никогда] | Jewelry (RPG Series) | Мод пак на боевку и магию| https://www.curseforge.com/minecraft/mc-mods/jewelry |
