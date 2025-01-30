@@ -8,8 +8,8 @@
 | 6 | Astikor Carts | Добавляет декоративные повозки | https://www.curseforge.com/minecraft/mc-mods/astikor-carts |
 | 7 | Athena | Библиотека для организации данных | https://www.curseforge.com/minecraft/mc-mods/athena |
 | 8 | BetterF3 | Улучшает отладочный экран | https://www.curseforge.com/minecraft/mc-mods/betterf3 |
-| 9 | Better Village • | Улучшает генерацию деревень | https://www.curseforge.com/minecraft/mc-mods/better-village-forge |
-| 10 | Believe • | Добавляет новые строительные блоки | https://www.curseforge.com/minecraft/mc-mods/believe |
+| 9 | Better Village | Улучшает генерацию деревень | https://www.curseforge.com/minecraft/mc-mods/better-village-forge |
+| 10 | Believe [fabric] | Добавляет новые строительные блоки | https://www.curseforge.com/minecraft/mc-mods/believe |
 | 11 | BlueMap | Создаёт веб-карту мира | https://www.curseforge.com/minecraft/mc-mods/bluemap |
 | 12 | Bookshelf | Библиотека для других модов | https://www.curseforge.com/minecraft/mc-mods/bookshelf |
 | 13 | Botarium | API библиотека для растительных модов | https://www.curseforge.com/minecraft/mc-mods/botarium |
@@ -106,7 +106,7 @@
 | 104 | Xaeros World Map | Добавляет карту мира | https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map |
 | [сорт.]| Create: Connected | A Create mod add-on adding quality-of-life blocks that you wish existed in Create| https://www.curseforge.com/minecraft/mc-mods/create-connected|
 | [сорт.] | Create: Crystal Clear | A mod that adds glass casings to create| https://www.curseforge.com/minecraft/mc-mods/create-crystal-clear|
-| [сорт.] | Create: Dynamic Village • | An expansion to Create that adds a fully-featured host of Create-mod village professions| https://www.curseforge.com/minecraft/mc-mods/dynamic-village|
+| [сорт.] | Create: Dynamic Village  | An expansion to Create that adds a fully-featured host of Create-mod village professions| https://www.curseforge.com/minecraft/mc-mods/dynamic-village|
 | [сорт.] | Create: The Kitchen Must Grow | Alcohol & Ultraprocessed Food| https://www.curseforge.com/minecraft/mc-mods/create-the-kitchen-must-grow|
 | [сорт.] | Create: More Drill Heads | More drill heads for faster mining machines!| https://www.curseforge.com/minecraft/mc-mods/create-more-drill-heads|
 | [сорт.] | Create Stuff & Additions | Dominate your environment with Create technology| https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions|
@@ -128,7 +128,7 @@
 | [сорт.] | Fusion | Fusion allows resource packs to use additional texture and model types such as connected textures! | https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures |
 | [сорт.] | Almanac Lib | A loader independent library containing shared code reused between mods. | https://www.curseforge.com/minecraft/mc-mods/almanac-lib |
 | [сорт.] | Carbon Config | IC2Classics Config Library | https://www.curseforge.com/minecraft/mc-mods/carbon-config |
-| [сорт.] |  | | |
+| [сорт.] | CoroUtil | Library Mod for Weather/Tropicraft/ZombieAwareness/etc | https://www.curseforge.com/minecraft/mc-mods/coroutil |
 | [сорт.] |  | | |
 | [сорт.] |  | | |
 | [сорт.] |  | | |
