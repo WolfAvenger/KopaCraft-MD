@@ -128,13 +128,4 @@
 | [сорт.] 127 | Almanac Lib | A loader independent library containing shared code reused between mods. | https://www.curseforge.com/minecraft/mc-mods/almanac-lib |
 | [сорт.] 128 | Carbon Config | IC2Classics Config Library | https://www.curseforge.com/minecraft/mc-mods/carbon-config |
 | [сорт.] 129 | CoroUtil | Library Mod for Weather/Tropicraft/ZombieAwareness/etc | https://www.curseforge.com/minecraft/mc-mods/coroutil |
-| [сорт.] |  | | |
-| [сорт.] |  | | |
-| [сорт.] |  | | |
-| [сорт.] |  | | |
-| [сорт.] |  | | |
-| [сорт.] |  | | |
-| [сорт.] |  | | |
-| [сорт.] |  | | |
-| [mb] | MVS - Moog's Voyager Structures |160+ structures made with vanilla blocks and entities bringing life to your world! Discover loot, enemies, & villagers along the way!| https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures |
-| [никогда] | Jewelry (RPG Series) [fabric] | Мод пак на боевку и магию| https://www.curseforge.com/minecraft/mc-mods/jewelry |
+
