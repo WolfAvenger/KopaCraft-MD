@@ -70,9 +70,8 @@
 | 68 | Mcw Fences | Добавляет декоративные заборы | https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls |
 | 69 | Mcw Furniture | Добавляет декоративную мебель | https://www.curseforge.com/minecraft/mc-mods/macaws-furniture |
 | 70 | Mcw Lights | Добавляет декоративное освещение | https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps |
-| 71 | Mcw Paintings | Добавляет декоративные картины | https://www.curseforge.com/minecraft/mc-mods/macaws-paintings |
-| 72 | Mcw Paths | Добавляет декоративные дорожки | https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings |
-| 73 | Mcw Trapdoors | Добавляет декоративные люки | https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors |
+| 71 !!| Mcw Paintings | Добавляет декоративные картины | https://www.curseforge.com/minecraft/mc-mods/macaws-paintings |
+| 73!! | Mcw Trapdoors | Добавляет декоративные люки | https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors |
 | 74 | Mcw Windows | Добавляет декоративные окна | https://www.curseforge.com/minecraft/mc-mods/macaws-windows |
 | 75 | Miners Delight | Еда и готовка для шахтёров | https://www.curseforge.com/minecraft/mc-mods/miners-delight-plus |
 | 76 | MOAdecor Art | Декоративные предметы искусства | https://www.curseforge.com/minecraft/mc-mods/moa-decor-art |
