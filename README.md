@@ -48,7 +48,7 @@
 | 46 | Framed Blocks | Настраиваемые декоративные блоки | https://www.curseforge.com/minecraft/mc-mods/framedblocks |
 | 47 | Geckolib | Библиотека анимаций для модов | https://www.curseforge.com/minecraft/mc-mods/geckolib |
 | 48 | Gravestone | Сохраняет инвентарь в надгробии | https://www.curseforge.com/minecraft/mc-mods/gravestone-mod |
-| 49 | Haunted Harvest | Хэллоуинское фермерство | https://www.curseforge.com/minecraft/mc-mods/haunted-harvest |
+| 49 | Haunted Harvest (remove) | Хэллоуинское фермерство | https://www.curseforge.com/minecraft/mc-mods/haunted-harvest |
 | 50 | Iceberg | Библиотека для интерфейсов | https://www.curseforge.com/minecraft/mc-mods/iceberg |
 | 51 | Immersive Aircraft | Добавляет летательные аппараты | https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft |
 | 52 | Inventory Sorter | Автосортировка инвентаря | https://www.curseforge.com/minecraft/mc-mods/inventory-sorter |
