@@ -32,6 +32,7 @@
 | 30 | Create | Технический мод с механизмами | https://www.curseforge.com/minecraft/mc-mods/create |
 | 31 | Create Addition | Дополнение для мода Create | https://www.curseforge.com/minecraft/mc-mods/createaddition |
 | 32 | Create Central Kitchen | Автоматизация еды для Create | https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen |
+| 32a | Create Cobblestone | Бесконечная кабла | https://modrinth.com/mod/create-cobblestone |
 | 33 | [сорт.] Create Connected | A Create mod add-on adding quality-of-life blocks that you wish existed in Create | https://www.curseforge.com/minecraft/mc-mods/create-connected |
 | 34 | [сорт.] Create Crystal Clear | A mod that adds glass casings to create | https://www.curseforge.com/minecraft/mc-mods/create-crystal-clear |
 | 35 | Create: Deepslate Processing | перерабатывать глубинный сланец | https://www.curseforge.com/minecraft/mc-mods/create-deepslate-processing |
